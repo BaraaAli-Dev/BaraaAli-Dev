@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there , I'm Baraa Ali  
 
-<!--
-**BaraaAli-Dev/BaraaAli-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **Full-Stack Web Developer | Cybersecurity Enthusiast**  
+    Interested in creating useful projects and exploring new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  About Me
+-  Science Faculty Student.  
+-  Currently learning **PHP & Backend Development**.  
+-  Interested in **Cybersecurity** as a future specialization.  
+-  Goal: Build my own software company to create meaningful projects.  
+
+---
+
+###  Skills & Tools
+- HTML | CSS | JavaScript | Bootstrap | PHP  
+- Git | GitHub | VS Code  
+
+---
+
+###  Connect with me
+- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/baraa-ali-1b018033b/))  
+- 📧 Email: baraaali.baraa22@gmail.com  
+
+---
+
+###  GitHub Stats
+![Baraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baraa-ali-creat&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baraa-ali-creat&layout=compact&theme=radical)  

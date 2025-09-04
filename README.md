@@ -1,6 +1,6 @@
 # Hi there , I'm Baraa Ali  
 
- **Full-Stack Web Developer | Cybersecurity Researcher**  
+ **Full-Stack Web Developer | Cybersecurity**  
     Interested in creating useful projects and exploring new technologies.
 
 ---

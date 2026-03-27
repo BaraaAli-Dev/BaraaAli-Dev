@@ -7,10 +7,9 @@
 
 ###  About Me
 -  Computer Science Student.  
--  Currently learning **PHP & Backend Development**.  
--  Interested in **Cybersecurity** as a future specialization.  
--  Goal: Build my own software company to create meaningful projects.  
-
+-  Full-Stack Web Developer | Cybersecurity Reacher.  
+-  Interested in **Cybersecurity** as a future specialization.
+  
 ---
 
 ###  Skills & Tools

@@ -6,7 +6,7 @@
 ---
 
 ###  About Me
--  Science Faculty Student.  
+-  Computer Science Student.  
 -  Currently learning **PHP & Backend Development**.  
 -  Interested in **Cybersecurity** as a future specialization.  
 -  Goal: Build my own software company to create meaningful projects.  
@@ -15,7 +15,7 @@
 
 ###  Skills & Tools
 - HTML | CSS | JavaScript | Bootstrap | PHP  
-- Git | GitHub | VS Code  
+- Git | GitHub | VS Code 
 
 ---
 
